@@ -68,5 +68,7 @@ Write-Host "Đã lưu kết quả vào file output.json" -ForegroundColor Green
   "data": "**The Impact of Computers: A Comprehensive Overview**\n\nIn the vast landscape of technology, computers stand as a testament to human ingenuity and the evolution of information processing...." 
 }
 ```
+# VIDEO DEMO
+[![VIDEO DEMO](https://img.youtube.com/vi/EazsZ9HzqYE/maxresdefault.jpg)](https://www.youtube.com/watch?v=EazsZ9HzqYE)
 
 
