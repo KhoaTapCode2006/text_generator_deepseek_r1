@@ -8,13 +8,13 @@ MSSV: 24120075
 Lớp: 24CTT3  
 
 Giảng viên hướng dẫn thực hành: Lê Đức Khoan  
-
+___
 # MÔ TẢ:
 Hệ thống sinh văn bản được xây dựng bằng FastAPI và model AI của Hugging Face. Hệ thống 
 chứa các tính năng cơ bản cho việc sinh văn bản bằng AI một cách thông minh và sáng tạo.
 Với model DeepSeek-R1 chứa 1.5 tỷ params, các câu lệnh sinh văn bản sẽ được thực hiện dễ
-dàng và nhanh chóng. Ngoài ra, hệ thống còn có thể viết code, làm toán, trò chuyện,....
-___
+dàng và nhanh chóng. Ngoài ra, hệ thống còn có thể viết code, làm toán, trò chuyện,....  
+
 + **Tên mô hình AI:** DeepSeek-R1-Distill-Qwen-1.5B
 + **Liên kết:** *[Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B)*
 + **Chức năng:** Hệ thống sinh văn bản, viết code, làm toán, trò chuyện dựa trên yêu cầu đẩy đủ ngữ cảnh, nội dung của người dùng 1 cách nhanh chóng, tiện lợi và thông minh.
@@ -77,6 +77,7 @@ Write-Host "Đã lưu kết quả vào file output.json" -ForegroundColor Green
   "data": "**The Impact of Computers: A Comprehensive Overview**\n\nIn the vast landscape of technology, computers stand as a testament to human ingenuity and the evolution of information processing...." 
 }
 ```
+___
 # VIDEO DEMO
 [![VIDEO DEMO](https://img.youtube.com/vi/EazsZ9HzqYE/maxresdefault.jpg)](https://www.youtube.com/watch?v=EazsZ9HzqYE)
 
