@@ -1,5 +1,10 @@
 # 🤖 HỆ THỐNG SINH VĂN BẢN BẰNG MÔ HÌNH DEEPSEEK-R1 🤖
 ___
+# THÔNG TIN SINH VIÊN
+Tên: Trần Nguyễn Anh Khoa
+MSSV: 24120075
+Lớp: 24CTT3
+Giảng viên hướng dẫn thực hành: Lê Đức Khoan
 # MÔ TẢ:
 Hệ thống sinh văn bản được xây dựng bằng FastAPI và model AI của Hugging Face. Hệ thống 
 chứa các tính năng cơ bản cho việc sinh văn bản bằng AI một cách thông minh và sáng tạo.
